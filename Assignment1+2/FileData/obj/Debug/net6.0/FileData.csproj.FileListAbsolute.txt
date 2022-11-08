@@ -1,0 +1,17 @@
+D:\VIA\DNP1\JwtAuth-master\FileData\bin\Debug\net6.0\FileData.deps.json
+D:\VIA\DNP1\JwtAuth-master\FileData\bin\Debug\net6.0\FileData.dll
+D:\VIA\DNP1\JwtAuth-master\FileData\bin\Debug\net6.0\FileData.pdb
+D:\VIA\DNP1\JwtAuth-master\FileData\bin\Debug\net6.0\Application.dll
+D:\VIA\DNP1\JwtAuth-master\FileData\bin\Debug\net6.0\Domain.dll
+D:\VIA\DNP1\JwtAuth-master\FileData\bin\Debug\net6.0\Application.pdb
+D:\VIA\DNP1\JwtAuth-master\FileData\bin\Debug\net6.0\Domain.pdb
+D:\VIA\DNP1\JwtAuth-master\FileData\obj\Debug\net6.0\FileData.csproj.AssemblyReference.cache
+D:\VIA\DNP1\JwtAuth-master\FileData\obj\Debug\net6.0\FileData.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIA\DNP1\JwtAuth-master\FileData\obj\Debug\net6.0\FileData.AssemblyInfoInputs.cache
+D:\VIA\DNP1\JwtAuth-master\FileData\obj\Debug\net6.0\FileData.AssemblyInfo.cs
+D:\VIA\DNP1\JwtAuth-master\FileData\obj\Debug\net6.0\FileData.csproj.CoreCompileInputs.cache
+D:\VIA\DNP1\JwtAuth-master\FileData\obj\Debug\net6.0\FileData.csproj.CopyComplete
+D:\VIA\DNP1\JwtAuth-master\FileData\obj\Debug\net6.0\FileData.dll
+D:\VIA\DNP1\JwtAuth-master\FileData\obj\Debug\net6.0\refint\FileData.dll
+D:\VIA\DNP1\JwtAuth-master\FileData\obj\Debug\net6.0\FileData.pdb
+D:\VIA\DNP1\JwtAuth-master\FileData\obj\Debug\net6.0\ref\FileData.dll

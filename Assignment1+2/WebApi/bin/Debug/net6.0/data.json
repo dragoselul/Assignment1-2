@@ -1,0 +1,11 @@
+{
+  "Posts": [],
+  "Users": [
+    {
+      "Id": 1,
+      "Username": "admin",
+      "Password": "admin1234",
+      "Email": "admin@gmail.com"
+    }
+  ]
+}

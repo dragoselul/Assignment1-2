@@ -1,0 +1,103 @@
+﻿@page "/SeePosts"
+@using global::Shared.Models
+@using HttpClients.ClientInterfaces
+@using System.Security.Claims
+@using global::Shared.Dtos
+@inject IPostService PostService;
+@inject IUserService UserService;
+@inject NavigationManager navMgr
+
+@if (isLoggedIn)
+{
+    <h3 class="card" id="user">Hello @name</h3>
+}
+else
+{
+    <p>You are not logged in. Hello guest!</p>
+}
+<AuthorizeView>
+    <NotAuthorized>
+        @foreach (var user in Users)
+        {
+            foreach (var post in Posts)
+            {
+                if (user.Id == post.owner.Id)
+                {
+                    <div class="card" id="user">
+                        <h3>@user.Username</h3>
+                        <div class="card" id="title">
+                            <h3>@post.Title</h3>
+                        </div>
+                        <div class="card" id="button">
+                            <button class="postOverview" @onclick="() => PostOverview(post.Id)">View post</button>
+                        </div>
+                    </div>
+                }
+            }
+        }
+    </NotAuthorized>
+    <Authorized>
+        @foreach (var user in Users)
+        {
+            foreach (var post in Posts)
+            {
+                if (user.Id == post.owner.Id)
+                {
+                    <div class="card" id="user">
+                        <h3>@user.Username</h3>
+                        <div class="card" id="title">
+                            <h3>@post.Title</h3>
+                        </div>
+                        <div class="card" id="button">
+                            <button class="postOverview" @onclick="() => PostOverview(post.Id)">View post</button>
+                        </div>
+                    </div>
+                }
+            }
+        }
+    </Authorized>
+</AuthorizeView>
+
+@code {
+    private IEnumerable<User>? Users;
+    private ICollection<Post>? Posts;
+
+    [CascadingParameter]
+    public Task<AuthenticationState> AuthState { get; set; } = null!;
+
+    private bool isLoggedIn;
+
+    private string? name;
+    private string? usernameContains = "";
+    private int? id;
+    private int? ownerId;
+    private string? title;
+    private string? body;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Users = await UserService.GetUsers(usernameContains);
+            Posts = await PostService.GetAsync(id, ownerId, title, body);
+            AuthenticationState authState = await AuthState;
+            ClaimsPrincipal user = authState.User;
+            isLoggedIn = user.Identity != null;
+            if (!isLoggedIn)
+                name = "Guest";
+            else
+                name = user.Identity!.Name!;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+        }
+    }
+
+    private void PostOverview(int postId)
+    {
+        
+        navMgr.NavigateTo($"/SeeFullPost/{postId}");
+    }
+
+}

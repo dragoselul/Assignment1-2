@@ -1,0 +1,29 @@
+#user {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    transition: 0.3s;
+    width: 700px;
+    padding: 25px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#title {
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#button {
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    padding: 40px;
+    text-align: start;
+}
+
+.postOverview {
+    background-color:lightgreen;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

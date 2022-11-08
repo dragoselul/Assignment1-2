@@ -1,0 +1,17 @@
+﻿@using BlazorWasm.Services
+@namespace Register
+@inject NavigationManager navMgr
+
+<AuthorizeView>
+    <NotAuthorized>
+        <img class="icon" src="img/Register.png" @onclick="Register"/>
+    </NotAuthorized>
+</AuthorizeView>
+
+@code {
+
+    private void Register()
+    {
+        navMgr.NavigateTo("/Register");
+    }
+}
