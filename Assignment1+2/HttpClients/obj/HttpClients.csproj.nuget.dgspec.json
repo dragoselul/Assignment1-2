@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VIA\\DNP1\\JwtAuth-master\\HttpClients\\HttpClients.csproj": {}
+    "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\HttpClients\\HttpClients.csproj": {}
   },
   "projects": {
-    "D:\\VIA\\DNP1\\JwtAuth-master\\Domain\\Domain.csproj": {
+    "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VIA\\DNP1\\JwtAuth-master\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\VIA\\DNP1\\JwtAuth-master\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "D:\\VIA\\DNP1\\JwtAuth-master\\Domain\\obj\\",
+        "projectPath": "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\42194\\.nuget\\packages\\",
+        "outputPath": "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\42194\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,40 +59,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\VIA\\DNP1\\JwtAuth-master\\HttpClients\\HttpClients.csproj": {
+    "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\HttpClients\\HttpClients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VIA\\DNP1\\JwtAuth-master\\HttpClients\\HttpClients.csproj",
+        "projectUniqueName": "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\HttpClients\\HttpClients.csproj",
         "projectName": "HttpClients",
-        "projectPath": "D:\\VIA\\DNP1\\JwtAuth-master\\HttpClients\\HttpClients.csproj",
-        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "D:\\VIA\\DNP1\\JwtAuth-master\\HttpClients\\obj\\",
+        "projectPath": "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\HttpClients\\HttpClients.csproj",
+        "packagesPath": "C:\\Users\\42194\\.nuget\\packages\\",
+        "outputPath": "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\HttpClients\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\42194\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\VIA\\DNP1\\JwtAuth-master\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\VIA\\DNP1\\JwtAuth-master\\Domain\\Domain.csproj"
+              "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\Domain\\Domain.csproj"
               }
             }
           }
@@ -138,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -29,7 +29,7 @@ public class PostEfcDao : IPostDao
         if (!string.IsNullOrEmpty(searchParameters.Username))
         {
             posts = Context.Posts.Where(post =>
-                post.owner.Username.Equals(searchParameters.Username, StringComparison.OrdinalIgnoreCase));
+                post.owner.Username.ToLower().Equals(searchParameters.Username.ToLower()));
         }
 
         if (searchParameters.userId != null)
@@ -40,7 +40,7 @@ public class PostEfcDao : IPostDao
         if (!string.IsNullOrEmpty(searchParameters.TitleContains))
         {
             posts = posts.Where(p =>
-                p.Title.Contains(searchParameters.TitleContains, StringComparison.OrdinalIgnoreCase));
+                p.Title.ToLower().Contains(searchParameters.TitleContains.ToLower()));
         }
 
         return Task.FromResult(posts);

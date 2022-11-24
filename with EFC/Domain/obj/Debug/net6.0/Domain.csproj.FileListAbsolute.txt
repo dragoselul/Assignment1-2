@@ -34,3 +34,15 @@ D:\VIA\DNP1\Assignment 3\Assignment1+2\Domain\obj\Debug\net6.0\Domain.dll
 D:\VIA\DNP1\Assignment 3\Assignment1+2\Domain\obj\Debug\net6.0\refint\Domain.dll
 D:\VIA\DNP1\Assignment 3\Assignment1+2\Domain\obj\Debug\net6.0\Domain.pdb
 D:\VIA\DNP1\Assignment 3\Assignment1+2\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\bin\Debug\net6.0\Domain.dll
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\bin\Debug\net6.0\Domain.pdb
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\obj\Debug\net6.0\Domain.dll
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\obj\Debug\net6.0\Domain.pdb
+D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\with EFC\Domain\obj\Debug\net6.0\ref\Domain.dll

@@ -35,7 +35,7 @@ public class UserEfcDao : IUserDao
         IEnumerable<User> users = Context.Users.AsEnumerable();
         if (searchParameters.UsernameContains != null)
         {
-            users = Context.Users.Where(u => u.Username.Contains(searchParameters.UsernameContains, StringComparison.OrdinalIgnoreCase));
+            users = Context.Users.Where(u => u.Username.ToLower().Contains(searchParameters.UsernameContains.ToLower()));
         }
 
         return Task.FromResult(users);

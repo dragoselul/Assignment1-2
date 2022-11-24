@@ -200,20 +200,20 @@
       "mscorlib.dll": "sha256-cx\/3nJhFns3tZhQNQOyiRyKJESKxOjLVufzWnri6KSA=",
       "netstandard.dll": "sha256-yWufW5W4SSfjocBcWTEDqnFwTd\/VYtLMc2Y9mPmlggc=",
       "System.Private.CoreLib.dll": "sha256-H009wzPwRoDZlwvpN4KLCsUwN7Y1AmjKB3PIEHA7ObQ=",
-      "Domain.dll": "sha256-pOBSmyjXryJqBzPPuHlnD1U8NKMU9cF3hkpXtbDN\/KY=",
-      "HttpClients.dll": "sha256-zj4Ohq78SSjeYXwCj1fj9eQ9Fd8Q1u9D0qjEleO90qk=",
-      "ChadRedditBlazor.dll": "sha256-cOsaNKqSKGAUL4D3RDeqLd2PXU1WsYUERJ9iu6n7zbw="
+      "Domain.dll": "sha256-WNw1agsL+70fgbiaPJ5warIVEOQDzaQEctHH4PQOGms=",
+      "HttpClients.dll": "sha256-uInKsuldHC2yH\/bA3aRuY66zyZZU4PqArWAv7DSFT50=",
+      "ChadRedditBlazor.dll": "sha256-ki6fsxYjNptpDVf4PwES+ieaZnAXZ0VKV8P4MPni7ZM="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Domain.pdb": "sha256-wQJvXmIqfpZtsZAa8lSkjbh93mJDfKsmdHJUjAjOHwA=",
-      "HttpClients.pdb": "sha256-+VqU5YGpz+bknycuvx5TKH2nWswDcKZofKgOKK4qxyo=",
-      "ChadRedditBlazor.pdb": "sha256-GSdZMvB3efpCOhw+Enn9oDiqUUgJdqcGYZBYt89b62o="
+      "Domain.pdb": "sha256-TCvN3meBd9CYdDYeHEEdXgXn2pEGoI+sKBI+WsUn4c4=",
+      "HttpClients.pdb": "sha256-boZ962jbKzf1YHx5tJz8j+t4tAIcIdAzWWEh2Ybng4w=",
+      "ChadRedditBlazor.pdb": "sha256-Lnefi\/TTUfwXOwjHPzJ+5fqq7KqxB72Ccmnm\/xjbdeM="
     },
     "runtime": {
-      "dotnet.6.0.11.w8nu64ou6m.js": "sha256-F30V+6jU3jwJYFZoLuwMAqzTiOXu6q7zGgOdjYBofDI=",
+      "dotnet.6.0.11.whg4ydgbh0.js": "sha256-F30V+6jU3jwJYFZoLuwMAqzTiOXu6q7zGgOdjYBofDI=",
       "dotnet.timezones.blat": "sha256-Lv3h5dH3BV8JIZagipVCG0N\/oBjQF6jXUUWR6shkvws=",
       "dotnet.wasm": "sha256-uv9ggGYjOv1l7PZUHHHlIba88MjDiFYvp8OqO2qQGxY=",
       "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
