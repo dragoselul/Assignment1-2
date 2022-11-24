@@ -1,0 +1,45 @@
+D:\VIA\DNP1\JwtAuth-master\Application\bin\Debug\net6.0\Application.deps.json
+D:\VIA\DNP1\JwtAuth-master\Application\bin\Debug\net6.0\Application.dll
+D:\VIA\DNP1\JwtAuth-master\Application\bin\Debug\net6.0\Application.pdb
+D:\VIA\DNP1\JwtAuth-master\Application\bin\Debug\net6.0\Domain.dll
+D:\VIA\DNP1\JwtAuth-master\Application\bin\Debug\net6.0\Domain.pdb
+D:\VIA\DNP1\JwtAuth-master\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\VIA\DNP1\JwtAuth-master\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIA\DNP1\JwtAuth-master\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\VIA\DNP1\JwtAuth-master\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\VIA\DNP1\JwtAuth-master\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\VIA\DNP1\JwtAuth-master\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\VIA\DNP1\JwtAuth-master\Application\obj\Debug\net6.0\Application.dll
+D:\VIA\DNP1\JwtAuth-master\Application\obj\Debug\net6.0\refint\Application.dll
+D:\VIA\DNP1\JwtAuth-master\Application\obj\Debug\net6.0\Application.pdb
+D:\VIA\DNP1\JwtAuth-master\Application\obj\Debug\net6.0\ref\Application.dll
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\bin\Debug\net6.0\Application.deps.json
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\bin\Debug\net6.0\Application.dll
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\bin\Debug\net6.0\Application.pdb
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\bin\Debug\net6.0\Domain.dll
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\bin\Debug\net6.0\Domain.pdb
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\obj\Debug\net6.0\Application.dll
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\obj\Debug\net6.0\refint\Application.dll
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\obj\Debug\net6.0\Application.pdb
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\Application\obj\Debug\net6.0\ref\Application.dll
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\bin\Debug\net6.0\Application.deps.json
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\bin\Debug\net6.0\Application.dll
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\bin\Debug\net6.0\Application.pdb
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\bin\Debug\net6.0\Domain.dll
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\bin\Debug\net6.0\Domain.pdb
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\obj\Debug\net6.0\Application.dll
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\obj\Debug\net6.0\refint\Application.dll
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\obj\Debug\net6.0\Application.pdb
+D:\VIA\DNP1\Assignment 3\Assignment1+2\Application\obj\Debug\net6.0\ref\Application.dll

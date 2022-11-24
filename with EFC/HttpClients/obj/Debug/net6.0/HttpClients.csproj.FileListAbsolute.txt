@@ -1,0 +1,45 @@
+D:\VIA\DNP1\JwtAuth-master\HttpClients\bin\Debug\net6.0\HttpClients.deps.json
+D:\VIA\DNP1\JwtAuth-master\HttpClients\bin\Debug\net6.0\HttpClients.dll
+D:\VIA\DNP1\JwtAuth-master\HttpClients\bin\Debug\net6.0\HttpClients.pdb
+D:\VIA\DNP1\JwtAuth-master\HttpClients\bin\Debug\net6.0\Domain.dll
+D:\VIA\DNP1\JwtAuth-master\HttpClients\bin\Debug\net6.0\Domain.pdb
+D:\VIA\DNP1\JwtAuth-master\HttpClients\obj\Debug\net6.0\HttpClients.csproj.AssemblyReference.cache
+D:\VIA\DNP1\JwtAuth-master\HttpClients\obj\Debug\net6.0\HttpClients.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIA\DNP1\JwtAuth-master\HttpClients\obj\Debug\net6.0\HttpClients.AssemblyInfoInputs.cache
+D:\VIA\DNP1\JwtAuth-master\HttpClients\obj\Debug\net6.0\HttpClients.AssemblyInfo.cs
+D:\VIA\DNP1\JwtAuth-master\HttpClients\obj\Debug\net6.0\HttpClients.csproj.CoreCompileInputs.cache
+D:\VIA\DNP1\JwtAuth-master\HttpClients\obj\Debug\net6.0\HttpClients.csproj.CopyComplete
+D:\VIA\DNP1\JwtAuth-master\HttpClients\obj\Debug\net6.0\HttpClients.dll
+D:\VIA\DNP1\JwtAuth-master\HttpClients\obj\Debug\net6.0\refint\HttpClients.dll
+D:\VIA\DNP1\JwtAuth-master\HttpClients\obj\Debug\net6.0\HttpClients.pdb
+D:\VIA\DNP1\JwtAuth-master\HttpClients\obj\Debug\net6.0\ref\HttpClients.dll
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\bin\Debug\net6.0\HttpClients.deps.json
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\bin\Debug\net6.0\HttpClients.dll
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\bin\Debug\net6.0\HttpClients.pdb
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\bin\Debug\net6.0\Domain.dll
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\bin\Debug\net6.0\Domain.pdb
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.csproj.AssemblyReference.cache
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.AssemblyInfoInputs.cache
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.AssemblyInfo.cs
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.csproj.CoreCompileInputs.cache
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.csproj.CopyComplete
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.dll
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\obj\Debug\net6.0\refint\HttpClients.dll
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.pdb
+D:\VIA\DNP1\Assignment1-2\Assignment1+2\HttpClients\obj\Debug\net6.0\ref\HttpClients.dll
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\bin\Debug\net6.0\HttpClients.deps.json
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\bin\Debug\net6.0\HttpClients.dll
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\bin\Debug\net6.0\HttpClients.pdb
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\bin\Debug\net6.0\Domain.dll
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\bin\Debug\net6.0\Domain.pdb
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.csproj.AssemblyReference.cache
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.AssemblyInfoInputs.cache
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.AssemblyInfo.cs
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.csproj.CoreCompileInputs.cache
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.csproj.CopyComplete
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.dll
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\obj\Debug\net6.0\refint\HttpClients.dll
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\obj\Debug\net6.0\HttpClients.pdb
+D:\VIA\DNP1\Assignment 3\Assignment1+2\HttpClients\obj\Debug\net6.0\ref\HttpClients.dll

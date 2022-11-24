@@ -1,0 +1,114 @@
+{
+  "Posts": [
+    {
+      "Id": 1,
+      "owner": {
+        "Id": 2,
+        "Username": "Chiril",
+        "Password": "chiril",
+        "Email": "chiril@gmail.com"
+      },
+      "Title": "Hello guys",
+      "Body": "Hello there matas I am testing blazor",
+      "Comments": null,
+      "upDownVote": null
+    },
+    {
+      "Id": 2,
+      "owner": {
+        "Id": 3,
+        "Username": "Dragoselul",
+        "Password": "dragos1234",
+        "Email": "dragoselul@gmail.com"
+      },
+      "Title": "It\u0027s working",
+      "Body": "lol",
+      "Comments": null,
+      "upDownVote": null
+    },
+    {
+      "Id": 3,
+      "owner": {
+        "Id": 4,
+        "Username": "Matas",
+        "Password": "matas1234",
+        "Email": "matas@gmail.com"
+      },
+      "Title": "Here is my post",
+      "Body": "Lalalalalalala",
+      "Comments": null,
+      "upDownVote": null
+    },
+    {
+      "Id": 4,
+      "owner": {
+        "Id": 2,
+        "Username": "Chiril",
+        "Password": "chiril",
+        "Email": "chiril@gmail.com"
+      },
+      "Title": "Hi there",
+      "Body": "hello",
+      "Comments": null,
+      "upDownVote": null
+    },
+    {
+      "Id": 5,
+      "owner": {
+        "Id": 5,
+        "Username": "Jakob",
+        "Password": "onetwo3",
+        "Email": "jakob@gmail.com"
+      },
+      "Title": "Hi there guys",
+      "Body": "I am creating a video showcasing this app",
+      "Comments": null,
+      "upDownVote": null
+    },
+    {
+      "Id": 6,
+      "owner": {
+        "Id": 5,
+        "Username": "Jakob",
+        "Password": "onetwo3",
+        "Email": "jakob@gmail.com"
+      },
+      "Title": "Hi guys",
+      "Body": "Because I refreshed the page I got logged out",
+      "Comments": null,
+      "upDownVote": null
+    }
+  ],
+  "Users": [
+    {
+      "Id": 1,
+      "Username": "admin",
+      "Password": "admin1234",
+      "Email": "admin@gmail.com"
+    },
+    {
+      "Id": 2,
+      "Username": "Chiril",
+      "Password": "chiril",
+      "Email": "chiril@gmail.com"
+    },
+    {
+      "Id": 3,
+      "Username": "Dragoselul",
+      "Password": "dragos1234",
+      "Email": "dragoselul@gmail.com"
+    },
+    {
+      "Id": 4,
+      "Username": "Matas",
+      "Password": "matas1234",
+      "Email": "matas@gmail.com"
+    },
+    {
+      "Id": 5,
+      "Username": "Jakob",
+      "Password": "onetwo3",
+      "Email": "jakob@gmail.com"
+    }
+  ]
+}

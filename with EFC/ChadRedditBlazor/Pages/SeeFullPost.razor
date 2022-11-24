@@ -1,0 +1,78 @@
+﻿@page "/SeeFullPost/{myvalue}"
+@using HttpClients.ClientInterfaces
+@using global::Shared.Models
+@using System.Security.Claims
+@using global::Shared.Dtos
+@inject IPostService PostService;
+@inject IUserService UserService;
+
+@if (isLoggedIn)
+{
+    <h3 class="card" id="user">Hello @name</h3>
+}
+else
+{
+    <p>You are not logged in. Hello guest!</p>
+}
+<AuthorizeView>
+    <NotAuthorized>
+        <div class="card" id="user">
+            <h3>@User.Username</h3>
+            <div class="card" id="title">
+                <h3>@Post.Title</h3>
+            </div>
+            <div class="card" id="body">
+                <p>@Post.Body</p>
+            </div>
+        </div>
+    </NotAuthorized>
+    <Authorized>
+        <div class="card" id="user">
+            <h3>@User.Username</h3>
+            <div class="card" id="title">
+                <h3>@Post.Title</h3>
+            </div>
+            <div class="card" id="body">
+                <p>@Post.Body</p>
+            </div>
+        </div>
+    </Authorized>
+</AuthorizeView>
+
+@code {
+
+    [Parameter]
+    public string myvalue { get; set; }
+
+    private User? User;
+    private PostBasicDto? Post;
+
+    [CascadingParameter]
+    public Task<AuthenticationState> AuthState { get; set; } = null!;
+
+    private bool isLoggedIn;
+
+    private string? name;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            int postId = Convert.ToInt32(myvalue);
+            Post = await PostService.GetByIdAsync(postId);
+            User = await UserService.GetUser(Post.ownerName);
+            AuthenticationState authState = await AuthState;
+            ClaimsPrincipal user = authState.User;
+            isLoggedIn = user.Identity != null;
+            if (!isLoggedIn)
+                name = "Guest";
+            else
+                name = user.Identity!.Name!;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+        }
+    }
+
+}
