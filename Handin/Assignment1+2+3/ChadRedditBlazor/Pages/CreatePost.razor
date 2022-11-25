@@ -1,0 +1,84 @@
+﻿@page "/CreatePost"
+@using HttpClients.ClientInterfaces
+@using global::Shared.Dtos
+@using System.Security.Claims
+@using global::Shared.Models
+@inject IPostService PostService;
+@inject IUserService UserService;
+@inject NavigationManager navMgr;
+
+@if (isLoggedIn)
+{
+    <h3 class="card">Hello @name</h3>
+}
+else
+{
+    <p>You are not logged in.</p>
+}
+<AuthorizeView>
+    <Authorized>
+        <div class="card">
+            <h3>Create a post</h3>
+            <div class="field">
+                <label>Title:</label>
+                <input type="text" @bind="title"/>
+            </div>
+            <div class="field">
+                <label style="text-align: center">Body:</label>
+            </div>
+            <div>
+                <textarea type="text" rows="4" cols="50" @bind="body"/>
+            </div>
+            @if (!string.IsNullOrEmpty(errorLabel))
+            {
+                <div class="field">
+                    <label style="color: red">
+                        @errorLabel
+                    </label>
+                </div>
+            }
+            <div class="field">
+                <button class="createPostBtn" @onclick="CreatePostAsync">Create Post</button>
+            </div>
+        </div>
+    </Authorized>
+</AuthorizeView>
+
+@code {
+    private string title;
+    private string body;
+    private string errorLabel;
+    private User u;
+
+    [CascadingParameter]
+    public Task<AuthenticationState> AuthState { get; set; } = null!;
+
+    private bool isLoggedIn;
+
+    private string? name;
+    private IEnumerable<Claim>? userClaims;
+
+    public void CreatePostAsync()
+    {
+        PostCreationDto creationDto = new()
+        {
+            OwnerId = u.Id,
+            Title = title,
+            Body = body
+        };
+        PostService.CreateAsync(creationDto);
+        navMgr.NavigateTo("/SeePosts");
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        AuthenticationState authState = await AuthState;
+        ClaimsPrincipal user = authState.User;
+        isLoggedIn = user.Identity != null;
+        if (!isLoggedIn) return;
+        userClaims = user.Claims;
+        name = user.Identity!.Name!;
+        u = await UserService.GetUser(name);
+    }
+
+}

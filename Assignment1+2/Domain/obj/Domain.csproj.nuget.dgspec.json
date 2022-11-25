@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\Domain\\Domain.csproj": {}
+    "D:\\VIA\\DNP1\\Assignment\\Assignment1-2\\Assignment1+2\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\Domain\\Domain.csproj": {
+    "D:\\VIA\\DNP1\\Assignment\\Assignment1-2\\Assignment1+2\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\VIA\\DNP1\\Assignment\\Assignment1-2\\Assignment1+2\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\42194\\.nuget\\packages\\",
-        "outputPath": "D:\\VIA\\Semester3\\DNP1\\Assignments\\Assignment1&2_Dragos\\Assignment1+2\\Domain\\obj\\",
+        "projectPath": "D:\\VIA\\DNP1\\Assignment\\Assignment1-2\\Assignment1+2\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
+        "outputPath": "D:\\VIA\\DNP1\\Assignment\\Assignment1-2\\Assignment1+2\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\42194\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

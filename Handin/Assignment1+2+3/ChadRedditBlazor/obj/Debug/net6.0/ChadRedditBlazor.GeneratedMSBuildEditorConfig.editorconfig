@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = BlazorWasm
+build_property.RootNamespace = BlazorWasm
+build_property.ProjectDir = D:\VIA\DNP1\Assignment1-2\Assignment1+2+3\ChadRedditBlazor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\VIA\DNP1\Assignment1-2\Assignment1+2+3\ChadRedditBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Pages/CreatePost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlUG9zdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-rt642x51p7
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ri5534mc7u
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Pages/LoginButtons.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5CdXR0b25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-z6lljryw3f
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-frucv1do6n
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Pages/RegisterButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-j5bwmx2pn3
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Pages/SeeFullPost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VlRnVsbFBvc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xxek5mkyrs
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Pages/SeePosts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VlUG9zdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-fzlkkzhu6d
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-2rmn8y5vol
+
+[D:/VIA/DNP1/Assignment1-2/Assignment1+2+3/ChadRedditBlazor/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-e3hzy6zz8m

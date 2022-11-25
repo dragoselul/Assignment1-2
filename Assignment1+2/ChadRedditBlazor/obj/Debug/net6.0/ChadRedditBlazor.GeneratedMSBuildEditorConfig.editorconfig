@@ -11,65 +11,65 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorWasm
 build_property.RootNamespace = BlazorWasm
-build_property.ProjectDir = D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\Assignment1+2\ChadRedditBlazor\
+build_property.ProjectDir = D:\VIA\DNP1\Assignment\Assignment1-2\Assignment1+2\ChadRedditBlazor\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\VIA\Semester3\DNP1\Assignments\Assignment1&2_Dragos\Assignment1+2\ChadRedditBlazor
+build_property.MSBuildProjectDirectory = D:\VIA\DNP1\Assignment\Assignment1-2\Assignment1+2\ChadRedditBlazor
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/App.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Pages/Counter.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Pages/Index.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Shared/SurveyPrompt.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/_Imports.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Pages/CreatePost.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Pages/CreatePost.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlUG9zdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-rt642x51p7
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Pages/Login.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ri5534mc7u
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Pages/LoginButtons.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Pages/LoginButtons.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5CdXR0b25zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-z6lljryw3f
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Pages/Register.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Pages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-frucv1do6n
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Pages/RegisterButton.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Pages/RegisterButton.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJCdXR0b24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-j5bwmx2pn3
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Pages/SeeFullPost.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Pages/SeeFullPost.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VlRnVsbFBvc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-xxek5mkyrs
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Pages/SeePosts.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Pages/SeePosts.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VlUG9zdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-fzlkkzhu6d
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Shared/MainLayout.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-2rmn8y5vol
 
-[D:/VIA/Semester3/DNP1/Assignments/Assignment1&2_Dragos/Assignment1+2/ChadRedditBlazor/Shared/NavMenu.razor]
+[D:/VIA/DNP1/Assignment/Assignment1-2/Assignment1+2/ChadRedditBlazor/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-e3hzy6zz8m
